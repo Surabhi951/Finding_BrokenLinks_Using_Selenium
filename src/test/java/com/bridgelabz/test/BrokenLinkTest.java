@@ -27,3 +27,4 @@ public class BrokenLinkTest extends BaseClass {
         closeBrowser();
     }
 }
+
